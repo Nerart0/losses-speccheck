@@ -17,7 +17,7 @@ This combination avoids the most common false positive of naive spectrogram anal
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/audio-quality-check.git
+git clone https://github.com/Nerart0/audio-quality-check.git
 cd audio-quality-check
 pip install librosa mutagen matplotlib numpy scipy --break-system-packages
 ```
@@ -65,7 +65,7 @@ The spectrogram (if generated) is saved in the **current working directory** by 
 ============================================================
 FILE METADATA
 ============================================================
-File:           Cruel Angel's Thesis.flac
+File:           Music.flac
 Size:           34.18 MB
 Duration:       4:01
 Sample rate:    44100 Hz
